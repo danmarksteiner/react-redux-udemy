@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Stream Description",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Description 2",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Description 2",
+      "id": 3
+    },
+    {
+      "title": "Stream create",
+      "description": "My stream",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "Stream create",
+      "description": "My stream",
+      "userId": "109729894956497318734",
+      "id": 5
+    },
+    {
+      "title": "Stream create",
+      "description": "My stream",
+      "userId": "109729894956497318734",
+      "id": 6
+    }
+  ]
+}
